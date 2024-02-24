@@ -30,7 +30,7 @@ AUTO_LEAVING_ASSISTANT = bool(getenv("True"))
 
 
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/CHATHV3N")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/CHATH3VN")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/CHATHV3N")
 
 SPOTIFY_CLIENT_ID = getenv("6a376276a5ab4ce88428cdb8f76eaf8b")
 SPOTIFY_CLIENT_SECRET = getenv("86e6b8e2e4a74f89a7774e3856871944")
