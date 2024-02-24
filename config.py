@@ -7,8 +7,8 @@ load_dotenv()
 
 
 #Basic-Setup
-OWNER_ID = int(getenv("6295947116"))
-LOGGER_ID = int(getenv("-1001947276976", None))
+OWNER_ID = int(getenv("OWNER_ID, 6295947116"))
+LOGGER_ID = int(getenv("LOGGER_ID, -1001947276976"))
 
 #Bot-Setup
 BOT_TOKEN = getenv("6189399999:AAFaN1Z_TD3kq16I87EMeuD_TMu23Lpqq_k")
@@ -17,8 +17,8 @@ BOT_TOKEN = getenv("6189399999:AAFaN1Z_TD3kq16I87EMeuD_TMu23Lpqq_k")
 MONGO_DB_URI = getenv("mongodb+srv://gotouhitoriii:D0ybqrDVq6MuKiqh@suika.al7oyue.mongodb.net/?retryWrites=true&w=majority&appName=Suika", None)
 
 #Assistant-Setup
-API_ID = int(getenv("22069422"))
-API_HASH = getenv("a2b3891c2041a4326fcb4e77b54fb32a")
+API_ID = int(getenv("API_ID, 22069422"))
+API_HASH = getenv("API_HASH, a2b3891c2041a4326fcb4e77b54fb32a")
 
 STRING1 = getenv("AQExX0YAsiyPsOjlKh7SMf9FEeIBVaI_9FWLYz4fEgATyid7kl7DORMSqKiaqFkQMi3j4lBFlotE3GrZ0ORSNpu-Ry-A6rgA1WCheVEE3rHKtv1wMkZ9oZU_u7NZxGyRWzcoiS-ZEnUo3FX0ygPChG-s8kbPzmwyhjsP5vR19AbcCc0Q4ZiyVaUCbPg0a0PABp__Jm76OmKTaitV4uY2cVR6WK6K37DEUOXcpn3_ow_78tysZcN-jifh30fLYaT_kXbYdny-9b4ZgQ1jjAttHCigJmwkDo4aYHDkUyK5L3pS0nPokvQWQ4oBNulpXnql8kr1cSkDTN8SbHmlL5IHypKKAvJ0hAAAAAFqyyBcAA")
 STRING2 = getenv("AQExX0YAsdC2f4A841hwcQfoUgM4Ck1m1_LjwofrtE1HhCs2GkKo_Uvdb4E5JnhxAY80bJxleUq9NkOZ8n5xhmdZU3VCYHuFtk9Jy_gccvCzmwwABbR_QH8wNLZTyLMwdM75CCJvjCdcP1okVqNrhm7T9GlBVyNmS0Lv1JACENVuDda-gp9wa4sAiCVxwqMYSWgtXbkgKBBBxrBfyxs2rymlNm0wECWw7ZQUmBsbcCXfQZzrCV56bgDUCLVGo6WwMQCQwqaxeb4RKDOENyB4IM-OZQtYFCXUVlPs90lAOM37hCU8ug7ITqqlbQVeFx_gTTiEn8bi0nJ-3ZThh_OnoKopK9lk8AAAAAFqyyBcAA")
