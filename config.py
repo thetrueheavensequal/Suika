@@ -14,7 +14,7 @@ LOGGER_ID = -1001947276976
 BOT_TOKEN = getenv("6189399999:AAFaN1Z_TD3kq16I87EMeuD_TMu23Lpqq_k")
 
 #MongoDB-Setup
-MONGO_DB_URI = getenv("mongodb+srv://gotouhitoriii:Zd4BtpM6JC7hWDc0@suika.al7oyue.mongodb.net/?retryWrites=true&w=majority&appName=Suika", None)
+MONGO_DB_URI = getenv("mongodb+srv://gotouhitoriii:Zd4BtpM6JC7hWDc0@suika.al7oyue.mongodb.net/?retryWrites=true&w=majority&appName=Suika")
 
 #Assistant-Setup
 API_ID = 22069422
