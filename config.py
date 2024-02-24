@@ -58,20 +58,20 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://i.pinimg.com/236x/57/ec/22/57ec223ee51d8753168de1af3ede1aeb.jpg"
+    "START_IMG_URL", "https://associated-lilyan-thetrueheavensequal.koyeb.app/api/file/share?hash=14B143AFF2B249C7CD31CFDD201CF93F6E4E90105511103045EB9E2C2BFAAB25&expire=1708799578&path=Suika%252Fstart.png"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://i.pinimg.com/564x/d9/b5/46/d9b5464b3de60b9b1df325e41cf22fd3.jpg"
+    "PING_IMG_URL", "https://associated-lilyan-thetrueheavensequal.koyeb.app/api/file/share?hash=E3E6BB295C1C3F0C51BE42E87099362F980B5187E7682DCEB48CEC445BE6402B&expire=1708799614&path=Suika%252Fping.jpeg"
 )
-STATS_IMG_URL = "https://i.pinimg.com/originals/2f/b8/d3/2fb8d33c12f3816e5bfed7fe614d447a.jpg"
-PLAYLIST_IMG_URL = "https://i.pinimg.com/736x/ea/e1/e3/eae1e38f90928b64acf67a85462667ea.jpg"
-TELEGRAM_AUDIO_URL = "https://i.pinimg.com/736x/71/e8/4b/71e84b0169197bece76520e3979cf899.jpg"
-TELEGRAM_VIDEO_URL = "https://i.pinimg.com/736x/71/e8/4b/71e84b0169197bece76520e3979cf899.jpg"
-STREAM_IMG_URL = "https://i.pinimg.com/originals/03/e8/db/03e8db879f8e9a0a83514b135260e182.jpg"
-YOUTUBE_IMG_URL = "https://i.pinimg.com/originals/d0/30/eb/d030ebe0b24de823dda499ac37301eb2.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://w0.peakpx.com/wallpaper/407/1022/HD-wallpaper-wets-female-wet-brown-eyes-sexy-cute-short-hair-girl-anime-hot-anime-girl-black-hair-night.jpg"
-SPOTIFY_ALBUM_IMG_URL = SPOTIFY_ARTIST_IMG_URL
-SPOTIFY_PLAYLIST_IMG_URL = SPOTIFY_ARTIST_IMG_URL
+STATS_IMG_URL = "https://associated-lilyan-thetrueheavensequal.koyeb.app/api/file/share?hash=BBD6CAEA89BAFC7B599BE37154C2CA22A6E70717653932FE304F63AF858C48D2&expire=1708799641&path=Suika%252Fstats.jpeg"
+PLAYLIST_IMG_URL = "https://associated-lilyan-thetrueheavensequal.koyeb.app/api/file/share?hash=04C89FEA961D547F3A2A2D92F146ABC640A46F72721780BF982B2720A5FACC9F&expire=1708799664&path=Suika%252Fplaylist.jpeg"
+TELEGRAM_AUDIO_URL = "https://associated-lilyan-thetrueheavensequal.koyeb.app/api/file/share?hash=0FD880067E09EF2921B81B9B641E640E584D1187BB0D935EA35C235A7EADDF26&expire=1708799684&path=Suika%252Ftelegram.png"
+TELEGRAM_VIDEO_URL = "https://associated-lilyan-thetrueheavensequal.koyeb.app/api/file/share?hash=0FD880067E09EF2921B81B9B641E640E584D1187BB0D935EA35C235A7EADDF26&expire=1708799684&path=Suika%252Ftelegram.png"
+STREAM_IMG_URL = "https://associated-lilyan-thetrueheavensequal.koyeb.app/api/file/share?hash=89F7D553212215C46038AB92E9D154305988F0157982057DFBCF0CC07D7F85F4&expire=1708799713&path=Suika%252Fstream.png"
+YOUTUBE_IMG_URL = "https://associated-lilyan-thetrueheavensequal.koyeb.app/api/file/share?hash=03E23116EED9D5B70076433882A699FFB90813738032A0FA3DBF56D425809AC8&expire=1708799719&path=Suika%252Fyoutube.png"
+SPOTIFY_ARTIST_IMG_URL = "https://associated-lilyan-thetrueheavensequal.koyeb.app/api/file/share?hash=64700DA8FF6082D5D1FB8447993693EA5829C6AE9515605EECDE83A172ED4DBB&expire=1708799724&path=Suika%252Fspotify.png"
+SPOTIFY_ALBUM_IMG_URL = "https://associated-lilyan-thetrueheavensequal.koyeb.app/api/file/share?hash=64700DA8FF6082D5D1FB8447993693EA5829C6AE9515605EECDE83A172ED4DBB&expire=1708799724&path=Suika%252Fspotify.png"
+SPOTIFY_PLAYLIST_IMG_URL = "https://associated-lilyan-thetrueheavensequal.koyeb.app/api/file/share?hash=64700DA8FF6082D5D1FB8447993693EA5829C6AE9515605EECDE83A172ED4DBB&expire=1708799724&path=Suika%252Fspotify.png"
 
 
 def time_to_seconds(time):
