@@ -29,8 +29,8 @@ AUTO_LEAVING_ASSISTANT = bool("True")
 
 
 
-SUPPORT_CHANNEL = "SUPPORT_CHANNEL", "https://t.me/CHATHV3N"
-SUPPORT_CHAT = "SUPPORT_CHAT", "https://t.me/CHATHV3N"
+SUPPORT_CHANNEL = "https://t.me/CHATHV3N"
+SUPPORT_CHAT = "https://t.me/CHATHV3N"
 
 SPOTIFY_CLIENT_ID = "6a376276a5ab4ce88428cdb8f76eaf8b"
 SPOTIFY_CLIENT_SECRET = "86e6b8e2e4a74f89a7774e3856871944"
@@ -38,15 +38,15 @@ SPOTIFY_CLIENT_SECRET = "86e6b8e2e4a74f89a7774e3856871944"
 HEROKU_APP_NAME = "HEROKU_APP_NAME"
 HEROKU_API_KEY = "HEROKU_API_KEY"
 
-UPSTREAM_REPO = getenv("UPSTREAM_REPO","https://github.com/JustAyu/Aest")
-UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
-GIT_TOKEN = getenv("GIT_TOKEN", None)  # Fill this variable if your upstream repository is private
+UPSTREAM_REPO = "https://github.com/JustAyu/Aest")
+UPSTREAM_BRANCH = "main"
+GIT_TOKEN = "GIT_TOKEN", None # Fill this variable if your upstream repository is private
 
 #Limits
-DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 2500))
-PLAYLIST_FETCH_LIMIT = int(getenv("PLAYLIST_FETCH_LIMIT", 1000))
-TG_AUDIO_FILESIZE_LIMIT = int(getenv("TG_AUDIO_FILESIZE_LIMIT", 104857600))
-TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 1073741824))
+DURATION_LIMIT_MIN = int("DURATION_LIMIT", 2500)
+PLAYLIST_FETCH_LIMIT = int("PLAYLIST_FETCH_LIMIT", 1000)
+TG_AUDIO_FILESIZE_LIMIT = int("TG_AUDIO_FILESIZE_LIMIT", 104857600)
+TG_VIDEO_FILESIZE_LIMIT = int("TG_VIDEO_FILESIZE_LIMIT", 1073741824)
 
 
 BANNED_USERS = filters.user()
@@ -57,8 +57,8 @@ autoclean = []
 confirmer = {}
 
 
-START_IMG_URL = "START_IMG_URL", "https://te.legra.ph/file/192f102f7d6a7a4561c82.jpg"
-PING_IMG_URL = "PING_IMG_URL", "https://te.legra.ph/file/5ca09da4f777b791cc128.jpg"
+START_IMG_URL = "https://te.legra.ph/file/192f102f7d6a7a4561c82.jpg"
+PING_IMG_URL = "https://te.legra.ph/file/5ca09da4f777b791cc128.jpg"
 STATS_IMG_URL = "https://te.legra.ph/file/e1ba3681120abf59e99ef.jpg"
 PLAYLIST_IMG_URL = "https://te.legra.ph/file/f4f35a6b0409d13ef2432.jpg"
 TELEGRAM_AUDIO_URL = "https://te.legra.ph/file/a87bfaa9891a5eeee1c0b.jpg"
