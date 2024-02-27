@@ -3,7 +3,6 @@ aiohttp
 asyncio
 beautifulsoup4
 dnspython
-git+https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
 ffmpeg-python
 gitpython
 hachoir
