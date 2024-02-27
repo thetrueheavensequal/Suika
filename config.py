@@ -38,7 +38,7 @@ SPOTIFY_CLIENT_SECRET = "86e6b8e2e4a74f89a7774e3856871944"
 HEROKU_APP_NAME = "HEROKU_APP_NAME"
 HEROKU_API_KEY = "HEROKU_API_KEY"
 
-UPSTREAM_REPO = "https://github.com/JustAyu/Aest")
+UPSTREAM_REPO = "https://github.com/JustAyu/Aest"
 UPSTREAM_BRANCH = "main"
 GIT_TOKEN = "GIT_TOKEN", None # Fill this variable if your upstream repository is private
 
