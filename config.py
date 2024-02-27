@@ -11,7 +11,7 @@ OWNER_ID = 6295947116
 LOGGER_ID = -1001947276976
 
 #Bot-Setup
-BOT_TOKEN = "6189399999:AAFaN1Z_TD3kq16I87EMeuD_TMu23Lpqq_k"
+BOT_TOKEN = "6189399999:AAHJgYfg_scLOWyTtluECrnHA4DqbM1PNBk"
 
 #MongoDB-Setup
 MONGO_DB_URI = "mongodb+srv://gotouhitoriii:Zd4BtpM6JC7hWDc0@suika.al7oyue.mongodb.net/?retryWrites=true&w=majority&appName=Suika"
