@@ -3,7 +3,7 @@ aiohttp
 asyncio
 beautifulsoup4
 dnspython
-git+https://github.com/FFmpeg/FFmpeg.git
+git+https://github.com/ffmpegwasm/ffmpeg.wasm
 ffmpeg-python
 gitpython
 hachoir
